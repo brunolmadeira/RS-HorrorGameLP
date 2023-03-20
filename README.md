@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 A Landing Page(LP) criada é uma página para divulgação de um jogo de horror. Há outras 2 páginas como parte de um desafio proposto durante a criação da LP principal.
 
 - [Visite o projeto online](https://brunolmadeira.github.io/RS-HorrorGameLP)
+- [Visite o Desafio 1 online](https://brunolmadeira.github.io/RS-HorrorGameLP/Desafio1)
+- [Visite o Desafio 2 online](https://brunolmadeira.github.io/RS-HorrorGameLP/Desafio2)
 
 ## 🔖 Layout
 
